@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Multilingual COVID-19 Fake News Detection and Intervention</title>
-	<atom:link href="https://counterinfodemic.org/teaching/teaching/feed/" rel="self" type="application/rss+xml" />
-	<link>https://counterinfodemic.org/teaching/teaching/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Fighting global infodemic</description>
 	<lastBuildDate>Tue, 12 Apr 2022 00:03:20 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/cropped-logo-3.png</url>
+	<url>./../wp-content/uploads/2022/03/cropped-logo-3.png</url>
 	<title>Multilingual COVID-19 Fake News Detection and Intervention</title>
-	<link>https://counterinfodemic.org/teaching/teaching/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>First Deakin-UGM Joint Research Workshop On COVID-19 Fake News Detection And Intervention</title>
-		<link>https://counterinfodemic.org/teaching/teaching/first-joint-workshop/</link>
+		<link>./../first-joint-workshop/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 28 Mar 2022 03:30:40 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://counterinfodemic.org/teaching/teaching/?p=932</guid>
+		<guid isPermaLink="false">./../index.html?p=932</guid>
 
-					<description><![CDATA[MULTILINGUAL COVID-19 FAKE NEWS DETECTION AND INTERVENTION Deakin-UGM Joint Workshop on COVID-19 Fake News Detection and Intervention Organised by FIRST Deakin-UGM Joint Research Workshop 21 April 2022 Dear Colleagues, You are cordially invited to attend the “First Deakin-UGM Joint Research Workshop on COVID-19 Fake News Detection and Intervention” which will be held on 21 April, &#8230;<p class="read-more"> <a class="" href="https://counterinfodemic.org/teaching/teaching/first-joint-workshop/"> <span class="screen-reader-text">First Deakin-UGM Joint Research Workshop On COVID-19 Fake News Detection And Intervention</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[MULTILINGUAL COVID-19 FAKE NEWS DETECTION AND INTERVENTION Deakin-UGM Joint Workshop on COVID-19 Fake News Detection and Intervention Organised by FIRST Deakin-UGM Joint Research Workshop 21 April 2022 Dear Colleagues, You are cordially invited to attend the “First Deakin-UGM Joint Research Workshop on COVID-19 Fake News Detection and Intervention” which will be held on 21 April, &#8230;<p class="read-more"> <a class="" href="./../first-joint-workshop/index.html"> <span class="screen-reader-text">First Deakin-UGM Joint Research Workshop On COVID-19 Fake News Detection And Intervention</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="932" class="elementor elementor-932">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-6c129f5a elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="6c129f5a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
@@ -67,18 +67,18 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2629828f elementor-nav-menu__align-center elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="2629828f" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://counterinfodemic.org/teaching/teaching/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-double-line e--animation-drop-in">
-				<ul id="menu-1-2629828f" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1155"><a href="https://counterinfodemic.org/teaching/teaching/" class="elementor-item menu-link">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="https://counterinfodemic.org/teaching/teaching/contributors-2/" class="elementor-item menu-link">Contributors</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="https://counterinfodemic.org/teaching/teaching/activities/" class="elementor-item menu-link">Activities</a></li>
+			<link rel="stylesheet" href="./../wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-double-line e--animation-drop-in">
+				<ul id="menu-1-2629828f" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1155"><a href="./../index.html" class="elementor-item menu-link">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="./../contributors-2/index.html" class="elementor-item menu-link">Contributors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="./../activities/index.html" class="elementor-item menu-link">Activities</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-2629828f" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1155"><a href="https://counterinfodemic.org/teaching/teaching/" class="elementor-item menu-link" tabindex="-1">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="https://counterinfodemic.org/teaching/teaching/contributors-2/" class="elementor-item menu-link" tabindex="-1">Contributors</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="https://counterinfodemic.org/teaching/teaching/activities/" class="elementor-item menu-link" tabindex="-1">Activities</a></li>
+				<ul id="menu-2-2629828f" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1155"><a href="./../index.html" class="elementor-item menu-link" tabindex="-1">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="./../contributors-2/index.html" class="elementor-item menu-link" tabindex="-1">Contributors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="./../activities/index.html" class="elementor-item menu-link" tabindex="-1">Activities</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -117,7 +117,7 @@
 								<div class="elementor-element elementor-element-051d3ed elementor-widget elementor-widget-image" data-id="051d3ed" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/elementor/thumbs/AS_267454910009350@1440777627830_l-150x150-1-pmh8tu7m65bpb4wopsbp0w10mp626tuvl55hcul98g.png" title="AS_267454910009350@1440777627830_l-150&#215;150" alt="AS_267454910009350@1440777627830_l-150x150" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img src="./../wp-content/uploads/elementor/thumbs/AS_267454910009350@1440777627830_l-150x150-1-pmh8tu7m65bpb4wopsbp0w10mp626tuvl55hcul98g.png" title="AS_267454910009350@1440777627830_l-150&#215;150" alt="AS_267454910009350@1440777627830_l-150x150" />															</div>
 				</div>
 					</div>
 		</div>
@@ -125,7 +125,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-20a7252 elementor-widget elementor-widget-image" data-id="20a7252" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/elementor/thumbs/heizfatabq0orr2yush9-pmh8tjve2yxhprl9yjzjwr1y22qlpkipmdfcvid3b4.jpeg" title="heizfatabq0orr2yush9" alt="heizfatabq0orr2yush9" />															</div>
+															<img src="./../wp-content/uploads/elementor/thumbs/heizfatabq0orr2yush9-pmh8tjve2yxhprl9yjzjwr1y22qlpkipmdfcvid3b4.jpeg" title="heizfatabq0orr2yush9" alt="heizfatabq0orr2yush9" />															</div>
 				</div>
 					</div>
 		</div>
@@ -179,9 +179,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c79cb8 elementor-author-box--layout-image-above elementor-author-box--align-center elementor-widget elementor-widget-author-box" data-id="7c79cb8" data-element_type="widget" data-widget_type="author-box.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://counterinfodemic.org/teaching/teaching/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">		<div class="elementor-author-box">
+			<link rel="stylesheet" href="./../wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">		<div class="elementor-author-box">
 							<div  class="elementor-author-box__avatar">
-					<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/WechatIMG88.jpeg">
+					<img src="./../wp-content/uploads/2022/03/WechatIMG88.jpeg">
 				</div>
 			
 			<div class="elementor-author-box__text">
@@ -203,7 +203,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-author-box">
 							<div  class="elementor-author-box__avatar">
-					<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/891649077152_.pic_.jpg">
+					<img src="./../wp-content/uploads/2022/03/891649077152_.pic_.jpg">
 				</div>
 			
 			<div class="elementor-author-box__text">
@@ -221,7 +221,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-author-box">
 							<div  class="elementor-author-box__avatar">
-					<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/901649077158_.pic_.jpg">
+					<img src="./../wp-content/uploads/2022/03/901649077158_.pic_.jpg">
 				</div>
 			
 			<div class="elementor-author-box__text">
@@ -263,7 +263,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-author-box">
 							<div  class="elementor-author-box__avatar">
-					<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/921649077171_.pic_-240x300.jpg">
+					<img src="./../wp-content/uploads/2022/03/921649077171_.pic_-240x300.jpg">
 				</div>
 			
 			<div class="elementor-author-box__text">
@@ -281,7 +281,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-author-box">
 							<div  class="elementor-author-box__avatar">
-					<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/931649077179_.pic_.jpg">
+					<img src="./../wp-content/uploads/2022/03/931649077179_.pic_.jpg">
 				</div>
 			
 			<div class="elementor-author-box__text">
@@ -323,7 +323,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-author-box">
 							<div  class="elementor-author-box__avatar">
-					<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/941649077184_.pic_.png">
+					<img src="./../wp-content/uploads/2022/03/941649077184_.pic_.png">
 				</div>
 			
 			<div class="elementor-author-box__text">
@@ -341,7 +341,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-author-box">
 							<div  class="elementor-author-box__avatar">
-					<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/951649077191_.pic_.png">
+					<img src="./../wp-content/uploads/2022/03/951649077191_.pic_.png">
 				</div>
 			
 			<div class="elementor-author-box__text">
@@ -387,7 +387,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-author-box">
 							<div  class="elementor-author-box__avatar">
-					<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/WechatIMG66-scaled-pkc6v967qwrrgw2icw6fdg0gnndkqcltf4d1c7eqrs-286x300.jpeg">
+					<img src="./../wp-content/uploads/2022/03/WechatIMG66-scaled-pkc6v967qwrrgw2icw6fdg0gnndkqcltf4d1c7eqrs-286x300.jpeg">
 				</div>
 			
 			<div class="elementor-author-box__text">
@@ -405,7 +405,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-author-box">
 							<div  class="elementor-author-box__avatar">
-					<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/511637049773_.pic_-300x300.jpg">
+					<img src="./../wp-content/uploads/2022/03/511637049773_.pic_-300x300.jpg">
 				</div>
 			
 			<div class="elementor-author-box__text">
@@ -423,7 +423,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-author-box">
 							<div  class="elementor-author-box__avatar">
-					<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/20210730_092201-1-scaled-pkc6rqa049vs35tolklyeep6x8y7rnpbjqb5g0izxk-300x255.jpg">
+					<img src="./../wp-content/uploads/2022/03/20210730_092201-1-scaled-pkc6rqa049vs35tolklyeep6x8y7rnpbjqb5g0izxk-300x255.jpg">
 				</div>
 			
 			<div class="elementor-author-box__text">
@@ -475,7 +475,7 @@
 				</div>
 				<div class="elementor-element elementor-element-adae619 elementor-widget elementor-widget-image" data-id="adae619" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="388" height="384" src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/QR-code.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/QR-code.png 388w, https://counterinfodemic.org/teaching/teaching/wp-content/uploads/2022/03/QR-code-300x297.png 300w" sizes="(max-width: 388px) 100vw, 388px" />															</div>
+															<img width="388" height="384" src="./../wp-content/uploads/2022/03/QR-code.png" class="attachment-full size-full" alt="" loading="lazy" srcset="./../wp-content/uploads/2022/03/QR-code.png 388w, ./../wp-content/uploads/2022/03/QR-code-300x297.png 300w" sizes="(max-width: 388px) 100vw, 388px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-9c9d6cd elementor-widget elementor-widget-text-editor" data-id="9c9d6cd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -487,7 +487,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5d4e3af elementor-widget elementor-widget-image" data-id="5d4e3af" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/elementor/thumbs/cropped-SM_BRANDMARK_NAVY_CMYK_VIC_INTNL_FA-1-pmh8z9q1norce10p04u3fiow6ueenvf1o0uh6ejda8.jpeg" title="cropped-SM_BRANDMARK_NAVY_CMYK_VIC_INTNL_FA-1" alt="cropped-SM_BRANDMARK_NAVY_CMYK_VIC_INTNL_FA-1" />															</div>
+															<img src="./../wp-content/uploads/elementor/thumbs/cropped-SM_BRANDMARK_NAVY_CMYK_VIC_INTNL_FA-1-pmh8z9q1norce10p04u3fiow6ueenvf1o0uh6ejda8.jpeg" title="cropped-SM_BRANDMARK_NAVY_CMYK_VIC_INTNL_FA-1" alt="cropped-SM_BRANDMARK_NAVY_CMYK_VIC_INTNL_FA-1" />															</div>
 				</div>
 					</div>
 		</div>
@@ -495,7 +495,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-c11e4f7 elementor-widget elementor-widget-image" data-id="c11e4f7" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="https://counterinfodemic.org/teaching/teaching/wp-content/uploads/elementor/thumbs/cropped-veski-150x150-1-pmh8s9tas36hyj6lv3y2va9czkw1czmzde0ck8wvls.png" title="cropped-veski-150&#215;150" alt="cropped-veski-150x150" />															</div>
+															<img src="./../wp-content/uploads/elementor/thumbs/cropped-veski-150x150-1-pmh8s9tas36hyj6lv3y2va9czkw1czmzde0ck8wvls.png" title="cropped-veski-150&#215;150" alt="cropped-veski-150x150" />															</div>
 				</div>
 					</div>
 		</div>
