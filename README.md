@@ -1,3 +1,2 @@
-# trustworthymachinelearning.github.io
+## This is the web page for the Trustworthy Machine Learning course taught by Dr. Xingjun Ma at the School of Computer Science, Fudan University, Shanghai, China.
 
-This is public repo for Fudan Graduate Subject: Trustworthy Machine Learning, delivered by Dr. Xingjun Ma.
